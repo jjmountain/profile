@@ -1,0 +1,52 @@
+body {
+background: #FFEFBA;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #FFFFFF, #FFEFBA);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #FFFFFF, #FFEFBA); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+
+}
+
+h1 {
+  color: #1B4965;
+  font-family: 'Satisfy', cursive;
+  font-size: 2.5em;
+  text-align: right;
+}
+
+h2 {
+  font-family: 'Dancing Script', cursive;
+  font-size: 2em;
+
+}
+
+h3 {
+  font-family: 'Anton', sans-serif;
+}
+
+h1, h3, p {
+  text-align: right;
+}
+
+p {
+  font-family: 'Open Sans', sans-serif;
+  line-height: 1.8em;
+  text-align: right;
+}
+
+li {
+  text-align: left;
+}
+
+.profile {
+  border-radius: 50%;
+  text-align: right;
+}
+.container {
+  width: 600px;   /* This sets the width */
+  margin: 0 auto; /* This automatically sets left/right margins */
+}
+
+#profile {
+  margin-top: 50px;
+  text-align: right;
+}
